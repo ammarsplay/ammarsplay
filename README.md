@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ammarsplay
+- 👋 Hi, I’m Ammar
 - 
 
 <!---
